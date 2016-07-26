@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Storage
+Bundle-SymbolicName: com.jiuqi.dna.xz4.zjy.storage
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JIUQI
+Require-Bundle: com.jiuqi.dna.core
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7

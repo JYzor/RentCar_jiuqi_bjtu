@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Ui
+Bundle-SymbolicName: com.jiuqi.dna.xz4.zjy.ui
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JIUQI
+Require-Bundle: com.jiuqi.dna.ui.wt,
+ com.jiuqi.dna.ui.common,
+ com.jiuqi.dna.ui.lightweight,
+ com.jiuqi.dna.ui.custom,
+ com.jiuqi.dna.ui.engine,
+ com.jiuqi.dna.xz4.zjy.core
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7

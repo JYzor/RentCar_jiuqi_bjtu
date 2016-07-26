@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Core
+Bundle-SymbolicName: com.jiuqi.dna.xz4.zjy.core
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: JIUQI
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: com.jiuqi.dna.core;bundle-version="3.6.0"
+Export-Package: com.jiuqi.dna.xz4.zjy.info,
+ com.jiuqi.dna.xz4.zjy.key,
+ com.jiuqi.dna.xz4.zjy.task

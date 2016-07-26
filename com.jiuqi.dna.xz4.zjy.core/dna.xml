@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dna>
+	<publish>
+		<services>
+			<!-- service space="dna/core" class="com.jiuqi.dna.core.XXService" -->
+			<service space="dna/bjtu" class="com.jiuqi.dna.xz4.zjy.Service.UserService"/>
+			<service space="dna/bjtu" class="com.jiuqi.dna.xz4.zjy.Service.CarManageService"/>			
+			
+		</services>
+		
+		<orms>
+			<!-- orm space="dna/core" class="com.jiuqi.dna.core.XXORM" -->
+		</orms>
+		
+		<commands>
+			<!-- command space="dna/core" class="com.jiuqi.dna.core.XXCommand" -->
+		</commands>
+		
+		<querys>
+			<!-- query space="dna/core" class="com.jiuqi.dna.core.XXQuery" -->
+		</querys>
+		
+		<tables>
+			<!--table space="dna/core" class="com.jiuqi.dna.core.impl.TD_BundleBin" /-->
+		</tables>
+		
+		<ui-entrys>
+			<!--uientry class="com.jiuqi.dna.bap.workflowmanager.define.ui.DemoApplicationUIEntry" name="workflowdefine">
+				</uientry-->
+		</ui-entrys>
+		
+		<pages>
+			<!--page space="mydemo" name="testtemplate" class="com.jiuqi.dna.ui.template.launch.TemplatePage" /-->
+		</pages>
+		
+		<ui-stylesheets>
+			<!-- stylesheet name="stylesheet" title="stylesheet" path="com/jiuqi/dna/ui/demo/stylesheet.css" -->
+		</ui-stylesheets>
+		
+		<portlets>
+			<!-- portlet name="portlet" class="com.jiuqi.dna.ui.XXPortlet" -->
+		</portlets>
+	</publish>
+</dna>
